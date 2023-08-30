@@ -1,4 +1,4 @@
-# Notes comes from Tech with Tims video on Software Design:
+# Notes comes from Tech with Tim's video on Software Design:
 
 Link: https://www.youtube.com/watch?v=FLtqAi7WNBY&t=31s&ab_channel=TechWithTim
 
