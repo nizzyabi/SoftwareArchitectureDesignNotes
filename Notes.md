@@ -4,7 +4,7 @@ Break down of course application.
 
 Writing out what you must track provides you with a clear and good outline of what is needed, saving you time and unnecessary time spend thinking of things needed.
 
-
+The goal is to be clear and for anyone to be able to look at this and know what is going on.
 # For an online school areas we will likely need track:
 
 - Students
@@ -26,7 +26,6 @@ Writing out what you must track provides you with a clear and good outline of wh
 - salary: float (how much profs are being paid)
 
 3. Courses
-
 - name: string (name of the course)
 - code: string (name of course code)
 - minStudent: int (what is the min amount of students needed for this class to be allowed to start?)
