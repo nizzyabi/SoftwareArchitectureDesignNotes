@@ -1,9 +1,4 @@
 # Notes #
-
-Break down of course application.
-
-Writing out what you must track provides you with a clear and good outline of what is needed, saving you time and unnecessary time spend thinking of things needed.
-
 The goal is to be clear and for anyone to be able to look at this and know what is going on.
 # For an online school areas we will likely need track:
 
@@ -50,3 +45,9 @@ The goal is to be clear and for anyone to be able to look at this and know what 
 - city: string
 - streetAddress: string
 - postalCode: string
+
+Now that we have everything that we need, draw out the list of attributes and how each of them connect to each other. 
+
+Writing out what you must track provides you with a clear and good outline of what is needed, saving you time and unnecessary time spend thinking of things needed.
+
+Flexible planning is better than strict planning.
